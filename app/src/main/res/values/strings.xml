@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">密码本</string>
+    <string name="action_settings">设置</string>
+    <string name="action_delete">删除</string>
+    <string name="action_check">用户验证</string>
+    <string name="action_view">我的完整列表</string>
+    <string name="sure">确认</string>
+</resources>
